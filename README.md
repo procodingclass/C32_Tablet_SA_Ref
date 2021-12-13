@@ -1,2 +1,1 @@
-# swing-to-survive
-Sling Game
+# C32_Tablet_SA_Ref
