@@ -1,1 +1,1 @@
-# C32_Tablet_SA_Ref
+# Tablet-SPCK-PRO-C32-Student-Activity-Reference
